@@ -17,3 +17,12 @@ Also install json-server globally with
 ```
 npm install -g json-server
 ```
+
+Start the server and open cypress
+```
+npm run server
+
+npm start
+
+npx cypress open
+```
