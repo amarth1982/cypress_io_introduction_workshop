@@ -1,1 +1,8 @@
-{}
+{
+    "baseUrl": "http://localhost:4200",
+    "defaultCommandTimeout": 400,
+    "blacklistHosts": [ "*google-analytics.com"],
+    "env": {
+        "defaultHeroName": "Anandha Marthandan"
+    }
+}
